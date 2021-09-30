@@ -31,11 +31,5 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 </p>
 
 ## My Github Stats:
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihsptr320&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihsptr320&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihsptr320&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihsptr320&theme=tokyonight" />
-</a>
-</div>
+[![masgalih320's github stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
