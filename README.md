@@ -1,11 +1,6 @@
 # Hi there 👋 , I'm Galih!
 Currently I am open to any opportunity especially in IT as a Website Developer and Mobile Developer.
 
-<p>
-    <img src="https://gpvc.arturio.dev/masgalih320" />
-    <img src="https://img.shields.io/github/followers/masgalih320?label=Followers&logo=Github)](https://github.com/masgalih320">
-</p>
-
 ## Current activity
 
 - 💻 I'm currently developing <a href="https://galihsptr.my.id">My Website</a> and some freelance projects
@@ -32,3 +27,7 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 ## My Github Stats:
 [![masgalih320's github stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/masgalih320)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/masgalih320)
+<p>
+    <img src="https://gpvc.arturio.dev/masgalih320" />
+    <img src="https://img.shields.io/github/followers/masgalih320?label=Followers&logo=Github)](https://github.com/masgalih320">
+</p>
