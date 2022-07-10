@@ -4,7 +4,7 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 ## Current activity
 
 - 💻 I'm currently developing <a href="https://galihsptr.id">my personal website</a> and some freelance projects
-- 📖 I’m currently learning PHP Framework, Python, NodeJS & much more
+- 📖 I’m currently learning Fullstack JS Development, Laravel & much more
 - 🤔 My interests are with front-end & backend Web Developer then i decide to do fullstack
 - 💼 I'm studying Software Engineering at <a href="https://smktelkom-bjb.sch.id">SMK Telkom Banjarbaru</a>
 - 💬 Ask me about anything, I am happy to help
