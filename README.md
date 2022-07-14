@@ -11,7 +11,8 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 - 📫 Please email me <a href="mailto:masgalih320@gmail.com">here</a> to reach me
 
 ## My Github Stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true)
+![github_stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact&hide_border=true)
 
 <p align="center">
     <img src="https://gpvc.arturio.dev/masgalih320" />
