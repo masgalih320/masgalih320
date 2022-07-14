@@ -12,7 +12,7 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 
 ## My Github Stats:
 ![github_stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true)
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact&hide_border=true)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact)
 
 <p align="center">
     <img src="https://gpvc.arturio.dev/masgalih320" />
