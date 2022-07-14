@@ -1,6 +1,3 @@
-# Hi there 👋 , I'm Galih!
-Currently I am open to any opportunity especially in IT as a Website Developer and Mobile Developer.
-
 ## Current activity
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://galihsptr.id">my personal website</a>
@@ -14,8 +11,3 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 ## My Github Stats:
 ![github_stats](https://github-readme-stats.vercel.app/api?username=masgalih320&show_icons=true)
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact)
-
-<p align="center">
-    <img src="https://gpvc.arturio.dev/masgalih320" />
-    <img src="https://img.shields.io/github/followers/masgalih320?label=Followers&logo=Github)](https://github.com/masgalih320">
-</p>
