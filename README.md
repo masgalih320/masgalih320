@@ -1,6 +1,6 @@
 ## Current activity
 
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://galihsptr.id">my personal website</a>
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://galihsptr.my.id">my personal website</a>
 - ⚡ Excited to create website with Fullstack JS
 - 🌱 I’m currently learning web interactivity
 - 💼 I'm studying Software Engineering at <a href="https://smktelkom-bjb.sch.id">SMK Telkom Banjarbaru</a>
