@@ -1,9 +1,8 @@
 ## Current activity
 
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://galihsptr.my.id">my personal website</a>
+- 🔭 I’m currently working from home for IDwebhost.com
 - ⚡ Excited to create website with Fullstack JS
 - 🌱 I’m currently learning web interactivity
-- 💼 I'm studying Software Engineering at <a href="https://smktelkom-bjb.sch.id">SMK Telkom Banjarbaru</a>
 - 😄 I'm natively speak Indonesian and fluently speak english.
 - 💬 Ask me about anything, I am happy to help
 - 📫 You can reach me at my instagram [@galihsptr320](https://instagram.com/galihsptr320)
