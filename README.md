@@ -1,6 +1,6 @@
 ## Current activity
 
-- 🔭 I’m currently working from home for IDwebhost.com
+- 🔭 I’m currently working from home for JogjaCamp
 - ⚡ Excited to create website with Fullstack JS
 - 🌱 I’m currently learning web interactivity
 - 😄 I'm natively speak Indonesian and fluently speak english.
