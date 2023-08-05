@@ -1,5 +1,6 @@
-## Current activity
+![readmebox](https://github.com/masgalih320/masgalih320/assets/91511974/4e5fe1ba-6c8d-45cd-b108-053d715a4920)
 
+## Current activity
 - 🔭 I’m currently working from home for JogjaCamp
 - ⚡ Excited to create website with Fullstack JS
 - 🌱 I’m currently learning web interactivity
