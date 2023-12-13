@@ -1,7 +1,7 @@
 ![readmebox](https://github.com/masgalih320/masgalih320/assets/91511974/4e5fe1ba-6c8d-45cd-b108-053d715a4920)
 
 ## Current activity
-- 🔭 I’m currently working from home for PT. JC Indonesia a.k.a CV. JogjaCamp
+- 🔭 I’m currently working from home
 - ⚡ Excited to create website with Fullstack JS
 - 🌱 I’m currently learning web interactivity
 - 😄 I'm natively speak Indonesian and fluently speak english.
