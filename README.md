@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning web interactivity
 - 😄 I'm natively speak Indonesian and fluently speak english.
 - 💬 Ask me about anything, I am happy to help
-- 📫 You can reach me at my instagram [@galihsptr320](https://instagram.com/galihsptr320) or visit [my website](https://galihsptr.my.id)
+- 📫 You can reach me at my instagram [@galihsptr320](https://instagram.com/galihsptr320) or visit [my website](https://galih.me)
 
 Visit my blogs [https://www.masgalih.net](https://www.masgalih.net)
 
