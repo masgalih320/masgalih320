@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning web interactivity
 - 😄 I'm natively speak Indonesian and fluently speak english.
 - 💬 Ask me about anything, I am happy to help
-- 📫 You can reach me at my instagram [@5gspt](https://instagram.com/galihsukristyan) or visit [my website](https://galih.me)
+- 📫 You can reach me at my instagram [@sukristyan](https://instagram.com/sukristyan) or visit [my website](https://galih.me)
 - 💻 My blogs [https://blog.galih.me](https://blog.galih.me)
 
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact)
