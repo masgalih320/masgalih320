@@ -10,4 +10,4 @@
 - 📫 You can reach me at my instagram [@sukristyan](https://instagram.com/sukristyan) or visit [my website](https://galih.me)
 - 💻 My blogs [https://blog.galih.me](https://blog.galih.me)
 
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masgalih320&layout=compact)
+![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukristyan&layout=compact)
